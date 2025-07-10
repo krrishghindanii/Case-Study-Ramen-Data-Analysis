@@ -3,7 +3,7 @@
 #date: "2024-09-16"
 
 #Loading the data frame
-load("//Users/caterinaponti/Desktop/BSDS100/ramen.Rdata")
+load("//Users/krrishghindanii/Desktop/BSDS100/ramen.Rdata")
 
 #summarize ramen data
 summary(ramen)
